@@ -4,7 +4,7 @@
 - 🤓 Aqui eu coloco alguns projetos da faculdade, e outros projetos pessoais.
 - 🎓 Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia.
 - 💻 Atualmente estou programando em Java, C e com Python que é minha linguagem preferida.
-- 📈 Estou estudando Data Science e Machine Learning no meu tempo particular pois quero uma oportunidade na área de análise de dados.
+- 📈 Estou estudando Data Science e Machine Learning no meu tempo particular.
 
 <div>
   <a href="https://www.linkedin.com/in/arthur-henrique-cavalcante-rosa-96113a210/" target="_blank"> 

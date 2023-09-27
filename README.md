@@ -1,10 +1,10 @@
 ### Olá, bem vindo ao meu github 👋
 
-- 😊 Meu nome é Arthur Henrique. 
-- 🤓 Aqui eu coloco alguns projetos da faculdade, e outros projetos pessoais.
-- 🎓 Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia.
-- 💻 Atualmente estou programando em Java, C e com Python que é minha linguagem preferida.
-- 📈 Estou estudando Data Science e Machine Learning no meu tempo particular.
+- 😊 Meu nome é Arthur Henrique.
+- 📈 Atualmente estou estagiando como cientista de dados na Lojas Renner S.A.
+- 🤓 Sou um entusiasta por inteligência artificial, principalmente às áreas de visão computacional e processamento de linguagem natural.
+- 🎓 Estudo sistemas de informação na Universidade Federal de Uberlândia.
+- 💻 Aqui eu coloco alguns projetos da faculdade, e outros projetos pessoais.
 
 <div>
   <a href="https://www.linkedin.com/in/arthur-henrique-cavalcante-rosa-96113a210/" target="_blank"> 
@@ -17,6 +17,5 @@
  
 <div> 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>

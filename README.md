@@ -2,7 +2,6 @@
 
 - 😊 meu nome é arthur.
 - 📈 sou cienstista de dados na lojas renner s.a.
-- 🤓 sou um entusiasta por inteligência artificial, principalmente às áreas de visão computacional e processamento de linguagem natural.
 - 🎓 estudo sistemas de informação na universidade federal de uberlândia.
 
 <div>
